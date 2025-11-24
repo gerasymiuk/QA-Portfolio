@@ -15,12 +15,12 @@ This repository contains my test documentation and practice projects created dur
 -Analyzing requests in Fiddler Everywhere
 ---
 ### **3)SQL queries**
----
+
 ### **4)Frontend Basics**
 -HTML + CSS practice (“My Interests” demo page created in CodePen)
 ---
 ### **5)JSON and XML documents created using online editors**
----
+
 ## **6)Tools Used**
 -Postman
 -Fiddler Everywhere
