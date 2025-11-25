@@ -27,7 +27,7 @@ This repository contains my test documentation and practice projects created dur
 - HTML + CSS practice (“My Interests” demo page created in CodePen)
 
 ### 5) JSON and XML documents
-- Created using online editors
+
 
 ### 6) Tools Used
 - Postman
